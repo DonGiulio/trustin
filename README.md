@@ -60,3 +60,22 @@ The debrief at the end is the opportunity to explain your choices and expose pos
 enhancements.
 
 Good luck and may the force be with you!
+
+## Running the tests
+
+run: 
+
+```
+bundle install
+rspec
+```
+
+example: 
+
+```
+% rspec
+...................
+
+Finished in 2.73 seconds (files took 0.05322 seconds to load)
+19 examples, 0 failures
+```
